@@ -64,3 +64,34 @@ else:
 #aprovado. Para ser aprovado todas as médias do aluno devem ser maiores que 7.
 #Considere que o aluno cursa apenas 3 matérias e que a nota de cada uma está
 #armazenada nas seguintes variáveis: matéria1, matéria2, matéria3.
+
+
+
+
+aluno = input("\nDigite o nome do aluno: ")
+nota_materia1 = int
+
+
+nota_materia1 = int(input("Digite a nota de 1 a 10 da matéria 1: "))
+materia1 = float(nota_materia1)
+
+nota_materia2 = input("Digite a nota de 1 a 10 da matéria 2: ")
+materia2 = float(nota_materia2)
+
+nota_materia3 = input("Digite a nota de 1 a 10 da matéria 3: ")
+materia3 = float(nota_materia3)
+
+if (materia1 > 10 or materia2 > 10 or materia3 > 10):
+      print("=============================")
+      print("Uma das notas estão inválida!")
+      print("=============================")
+      exit()
+
+media = (materia1 + materia2 + materia3) / 3
+
+if (media > 7):
+      print("Aluno {} foi aprovado devido a nota {}.".format(aluno,media))
+else:
+      print("Aluno {} não foi aprovado devido a nota {}.".format(aluno,media))
+
+

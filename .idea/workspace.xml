@@ -128,6 +128,7 @@
       <list>
         <option value="$PROJECT_DIR$/aula3/olaMundo.py" />
         <option value="$PROJECT_DIR$/aula3/variaveiExe1.py" />
+
         <option value="$PROJECT_DIR$/aula3/primeiraListaExercicios.py" />
         <option value="$PROJECT_DIR$/aula3/calculadora.py" />
         <option value="$PROJECT_DIR$/aula3/exerc1.py" />
@@ -161,6 +162,7 @@
     <option name="width" value="1366" />
     <option name="height" value="743" />
   </component>
+
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -207,8 +209,14 @@
       </list>
     </option>
   </component>
+
   <component name="RunManager" selected="Python.exerc_11">
     <configuration name="exerc_10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+
+
+  <component name="RunManager" selected="Python.calculadora">
+    <configuration name="calculadora" type="PythonConfigurationType" factoryName="Python" temporary="true">
+
       <module name="cesusc_primeiroProjeto" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,6 +238,7 @@
       <method v="2" />
     </configuration>
     <configuration name="exerc_11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="olaMundo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cesusc_primeiroProjeto" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -320,6 +329,9 @@
         <item itemvalue="Python.exerc_9" />
         <item itemvalue="Python.exerc_8" />
         <item itemvalue="Python.exerc_7" />
+        <item itemvalue="Python.calculadora" />
+        <item itemvalue="Python.variaveiExe1" />
+        <item itemvalue="Python.olaMundo" />
       </list>
     </recent_temporary>
   </component>
@@ -388,6 +400,7 @@
         </state>
       </provider>
     </entry>
+
     <entry file="file://$PROJECT_DIR$/aula3/primeiraListaExercicios.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1425">

@@ -67,6 +67,7 @@ else:
 
 
 
+
 aluno = input("\nDigite o nome do aluno: ")
 nota_materia1 = int
 
@@ -92,4 +93,5 @@ if (media > 7):
       print("Aluno {} foi aprovado devido a nota {}.".format(aluno,media))
 else:
       print("Aluno {} não foi aprovado devido a nota {}.".format(aluno,media))
+
 

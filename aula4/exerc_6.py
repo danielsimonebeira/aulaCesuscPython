@@ -11,3 +11,5 @@ elif (numero_b > numero_a and numero_b > numero_c):
 
 elif (numero_c > numero_a and numero_c > numero_b):
     print("{} é maior que {} e {}.".format(numero_c,numero_a,numero_b))
+else:
+    print("Valores iguas")

@@ -5,6 +5,7 @@ numero_b = int(input("Digite o segundo numero: "))
 
 if (numero_a > numero_b):
     print("O maior numero é",numero_a,sep=": ")
-
-else:
+elif(numero_b > numero_a):
     print("O maior numero é",numero_b,sep=": ")
+elif(numero_b == numero_a):
+    print("Os dois numeros são iguais")
